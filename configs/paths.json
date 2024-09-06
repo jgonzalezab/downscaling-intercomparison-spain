@@ -1,0 +1,8 @@
+{
+    "data": "./data/data_files",
+    "data_preds": "./data/pred_files",
+    "models": "./models",
+    "asym": "./data/asym_files",
+    "gcm_raw": "./data/gcm_raw",
+    "data_proj": "./data/proj_files"
+}
